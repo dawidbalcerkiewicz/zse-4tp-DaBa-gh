@@ -8,6 +8,7 @@ author = 'Graziella'
 
 release = '0.1'
 version = '0.1.0'
+master_doc = 'index'
 
 # -- General configuration
 
